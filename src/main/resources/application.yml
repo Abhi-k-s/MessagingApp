@@ -1,0 +1,31 @@
+spring:
+  application:
+    name: mes-app
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: Iv1.fc10bc721aa92096
+            client-secret: fc68ed03c7a5a515982e295b0d81bc7a4d2435ed
+  data:
+    cassandra:
+      keyspace-name: main
+      username: ykRzyAWvNynZwdbwHxRXSrfe
+      password: d+wa0jlrDKvr3_pCDzn_LZFSu+enY,mta.6t6Rv_4WWtNeKk2-QK8e-M.oBpgnAZOJXikKs5yBjHo0HEYbAGZt.aCXp6gxI0UZxvFdGT3Y0tGqw2mx0KQrW6G7TLIjZ.
+      schema-action: recreate-drop-unused
+      request:
+        timeout: 10s
+      connection:
+        connect-timeout: 10s
+        init-query-timeout: 10s
+
+astra.db:
+  id: 98927ba0-bf6f-4015-b574-ba0503068698-1
+  region: asia-south1
+  keyspace: main
+  application.token: AstraCS:ykRzyAWvNynZwdbwHxRXSrfe:7d1a955bb90855d296b4244e1ad636bebddd5c8793a9b1ee1b574efbd8824674
+
+datastax.astra:
+  secure-connect-bundle: secure-connect.zip
+         
