@@ -61,10 +61,10 @@ This project mimics functionalities of mailing service like gmail (without using
 
 ## Team Members
 
-* ![K S Abhisheka](https://github.com/Abhi-k-s)
+* [K S Abhisheka](https://github.com/Abhi-k-s)
 
-* ![Kushal T M](https://github.com/Kklish)
+* [Kushal T M](https://github.com/Kklish)
 
-* ![Lithesh Shetty](https://github.com/shettylithesh)
+* [Lithesh Shetty](https://github.com/shettylithesh)
 
 
