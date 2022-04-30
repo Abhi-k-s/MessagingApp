@@ -46,9 +46,9 @@ This project mimics functionalities of mailing service like gmail (without using
 
 
 ## Design principles and Design patterns used:
-•	MVC Architecture Pattern
-•	Observer design Pattern(Behavioural Design Pattern)
-•	Facade design Pattern(Structural Design Pattern)
+*	MVC Architecture Pattern
+*	Observer design Pattern(Behavioural Design Pattern)
+*	Facade design Pattern(Structural Design Pattern)
 
 
 ## Screenshots
@@ -58,5 +58,13 @@ This project mimics functionalities of mailing service like gmail (without using
 ![Dashboard](https://github.com/Abhi-k-s/MessagingApp/blob/master/images/Landing%20Page.png)
 
 ![Compose message page](https://github.com/Abhi-k-s/MessagingApp/blob/master/images/Compose%20email%20page.png)
+
+## Team Members
+
+* ![K S Abhisheka](https://github.com/Abhi-k-s)
+
+* ![Kushal T M](https://github.com/Kklish)
+
+* ![Lithesh Shetty](https://github.com/shettylithesh)
 
 
