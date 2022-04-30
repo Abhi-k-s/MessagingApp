@@ -59,5 +59,4 @@ This project mimics functionalities of mailing service like gmail (without using
 
 ![Compose message page](https://github.com/Abhi-k-s/MessagingApp/blob/master/images/Compose%20email%20page.png)
 
-![Message view](https://github.com/Abhi-k-s/MessagingApp/blob/master/images/Email%20view.png)
 
